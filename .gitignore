@@ -1,0 +1,29 @@
+# Ignore audio, feature, and model files
+sounds_arabic/*.wav
+!sounds_arabic/Dareen1.wav
+!sounds_arabic/Fayhaa1.wav
+wiener_vad_features/
+wiener_vad_models/
+*.npy
+*.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+venv/
+.env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
