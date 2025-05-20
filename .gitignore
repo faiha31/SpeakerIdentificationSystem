@@ -1,11 +1,7 @@
 # Ignore audio, feature, and model files
-sounds_arabic/*.wav
-!sounds_arabic/Dareen1.wav
-!sounds_arabic/Fayhaa1.wav
-wiener_vad_features/
-wiener_vad_models/
+features/
 *.npy
-*.pkl
+
 
 # Python cache files
 __pycache__/
