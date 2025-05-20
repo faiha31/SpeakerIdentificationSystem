@@ -19,7 +19,7 @@ Dependencies: Listed in requirements.txt.
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/SpeakerIdentificationSystem.git
+git clone https://github.com/faiha31/SpeakerIdentificationSystem.git
 cd SpeakerIdentificationSystem
 
 
